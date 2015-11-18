@@ -1,3 +1,11 @@
+This fork is exactly the same as upstream [rails/turbolinks](https://github.com/rails/turbolinks). Only the gem name and version has been changed. This is done because it seems Turbolinks v3.0 will not be released to make way for v5.0 in the future ([#628](https://github.com/rails/turbolinks/issues/628)). To use this fork, go with:
+
+```
+gem 'rstacruz-turbolinks'
+```
+
+----
+
 Turbolinks
 ==========
 [![Build Status](https://travis-ci.org/rails/turbolinks.svg?branch=master)](https://travis-ci.org/rails/turbolinks)
